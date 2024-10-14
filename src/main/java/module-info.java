@@ -1,4 +1,4 @@
-module javafxtemplatemaven {
+module javafxtemplate {
     requires javafx.controls;
     requires javafx.fxml;
 
